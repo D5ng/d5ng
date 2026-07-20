@@ -17,6 +17,9 @@
  - 개발자 글쓰기 도서
  - 다시 깊게 익히는 리액트 인사이드 도서
 
+---
+2026.07.18 ~ [젝트 IT 동아리 메이커스 2팀 합류](https://ject.kr/)
+
 ### Tech
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next)](https://skillicons.dev)
   

@@ -18,7 +18,8 @@
  - 다시 깊게 익히는 리액트 인사이드 도서
 
 ---
-2026.07.18 ~ [젝트 IT 동아리 메이커스 2팀 합류](https://ject.kr/)
+2026.07.18 ~ [젝트 IT 동아리](https://ject.kr/) 메이커스 2팀 합류 
+- [JDS 디자인 시스템](https://github.com/JECT-Study/JECT-Official-WebSite-Client/tree/dev/packages/jds)
 
 ### Tech
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next)](https://skillicons.dev)
